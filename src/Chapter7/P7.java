@@ -45,6 +45,7 @@ public class P7 {
      * Method that averages an array
      *
      * @param array User inputted Integer array
+     * @return returns average of the array
      */
     public static double averageArray(int[] array) {
         int total = 0;
